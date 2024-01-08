@@ -36,7 +36,7 @@ The Emotion Detection App is a web application that uses computer vision and mac
 1. Run the Flask app:
 
     ```bash
-    pythonk flask_app.py
+    python flask_app.py
     ```
 
 2. Open your web browser and navigate to [http://localhost:5000](http://localhost:5000).
