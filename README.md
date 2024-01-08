@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For inquiries or feedback, please contact me at shubhayan935@gmail.com.
+For inquiries or feedback, please contact me at shubhayan935@gmail.com or shubhaya@usc.edu.
